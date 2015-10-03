@@ -1,2 +1,2 @@
 # Google-Code-Jam
-# @author Jian LI <lijian9051@gmail.com>
+@author Jian LI <lijian9051@gmail.com>
