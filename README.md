@@ -17,3 +17,8 @@
 ###### *@link https://code.google.com/codejam/contest/90101/dashboard*
 - Alien-language
 - Welcome-to-Code-Jam
+
+#### Code Jam 2010 Round 1C
+###### *@link https://code.google.com/codejam/contest/619102/dashboard*
+- Rope-intranet
+- Making-chess-boards
