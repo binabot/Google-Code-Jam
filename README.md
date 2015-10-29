@@ -1,5 +1,6 @@
 # Google Code Jam
 *Jian LI <lijian9051@gmail.com>*
+https://code.google.com/codejam/contests.html
 
 #### Africa 2010 Qualification Round
 ###### *@link http://code.google.com/codejam/contest/dashboard?c=351101*
